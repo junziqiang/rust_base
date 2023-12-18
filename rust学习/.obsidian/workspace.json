@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust基础/结构体.md",
+                "file": "rust进阶/迭代器与闭包.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust基础/结构体.md",
+                "file": "rust进阶/迭代器与闭包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rust基础/结构体.md",
+                "file": "rust进阶/迭代器与闭包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust基础/结构体.md"
+                "file": "rust进阶/迭代器与闭包.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "0278c9470777ba91",
   "lastOpenFiles": [
     "rust进阶/泛型、trait和生命周期.md",
+    "rust进阶/迭代器与闭包.md",
     "rust基础/结构体.md",
     "rust进阶",
     "未命名.md",
